@@ -202,7 +202,7 @@ exp4/
 ├── eslint.config.js
 ├── vite.config.js
 ├── package.json
-└── README_EXP4.md                  # This file
+└── README.md                  # This file
 ```
 
 ---

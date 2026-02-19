@@ -1,5 +1,7 @@
 # Experiment 4: Advanced React Application with Hooks and State Management
-
+---
+⭕ SCREENSHOTS ARE THERE IN PUBLIC FOLDER
+---
 ## 📋 Project Overview
 
 **Experiment 4 (Exp4)** is a full-featured React 19 + Vite Single Page Application (SPA) that demonstrates advanced React concepts including **Context API**, **useReducer Hook**, **useMemo Optimization**, and **Advanced CSS Styling**. This project showcases best practices in state management, component architecture, and modern UI/UX design.

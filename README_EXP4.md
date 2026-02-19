@@ -617,23 +617,6 @@ Potential improvements for next iterations:
 
 ---
 
-## 📞 Support & Documentation
-
-For questions or issues:
-1. Check browser console for error messages
-2. Review React DevTools for state inspection
-3. Check Network tab for API calls
-4. Refer to Material-UI documentation: https://mui.com
-5. React Router docs: https://reactrouter.com
-
----
-
-## 📄 License
-
-This is an educational project created as part of a React learning assignment.
-
----
-
 **Last Updated:** February 19, 2026  
 **Student ID:** 23BAI70578  
 **Framework:** React 19.2.0 + Vite 7.3.1  
